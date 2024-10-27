@@ -1,2 +1,2 @@
-# Digital-Clock
-digital-clock-m68g-ewd1x1n32-muhammadghulammuhiuddins-projects.vercel.app
+# Digital-Clock 
+https://digital-clock-m68g-git-main-muhammadghulammuhiuddins-projects.vercel.app/?vercelToolbarCode=dDiYMghdhCKDpga
